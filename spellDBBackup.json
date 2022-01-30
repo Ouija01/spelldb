@@ -1,0 +1,5229 @@
+[
+  {
+    "champName": "Aatrox",
+    "spelldetails": 
+    [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "14/12/10/8/6",
+        "range": "650",
+        "chargeable": false,
+        "areaofeffect": "200"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "20/18.5/17/15.5/14",
+        "range": "850",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "9/8/7/6/5",
+        "range": "300",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Ahri",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "7",
+        "range": "880",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "9/8/7/6/5",
+        "range": "700",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12",
+        "range": "975",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "130/105/80",
+        "range": "450",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Akali",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "1.5",
+        "range": "500",
+        "chargeable": false,
+        "areaofeffect": "750"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "20",
+        "range": "250",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16/14.5/13/11.5/10",
+        "range": "650",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "100/80/60",
+        "range": "675",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Akshan",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8/7.25/6.5/5.75/5",
+        "range": "850",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "18/14/10/6/2",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "70",
+        "cooldown": "18/16.5/15/13.5/12",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "100",
+        "cooldown": "100/85/70",
+        "range": "2500",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Alistar",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "15/14/13/12/11",
+        "chargeable": false,
+        "areaofeffect": "365"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "14/13/12/11/10",
+        "range": "650",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12/11.5/11/10.5/10",
+        "chargeable": false,
+        "areaofeffect": "350"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Amumu",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "3",
+        "range": "1,100",
+        "chargeable": false,
+        "areaofeffect": "300"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "1",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "9/8/7/6/5",
+        "chargeable": false,
+        "areaofeffect": "350"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "150/125/100",
+        "chargeable": false,
+        "areaofeffect": "550"
+      }
+    ]
+  },
+  {
+    "champName": "Anivia",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "11/10/9/8/7",
+        "range": "1075",
+        "chargeable": false,
+        "areaofeffect": "125|225"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "17",
+        "range": "1000",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "4",
+        "range": "650",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "4/3/2",
+        "range": "750",
+        "chargeable": false,
+        "areaofeffect": "200"
+      }
+    ]
+  },
+  {
+    "champName": "Annie",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "4",
+        "range": "625",
+        "chargeable": false,
+        "areaofeffect": "600"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "8",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "14/13/12/11/10",
+        "range": "800",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "600",
+        "chargeable": false,
+        "areaofeffect": "290"
+      }
+    ]
+  },
+  {
+    "champName": "Aphelios",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "",
+        "range": "475",
+        "chargeable": false,
+        "areaofeffect": "500"
+      },
+      { "chargeable": false },
+      { "chargeable": false },
+      {
+        "slot": "R",
+        "cost": "0",
+        "range": "1300",
+        "chargeable": false,
+        "areaofeffect": "300"
+      }
+    ]
+  },
+  {
+    "champName": "Ashe",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "18/14.5/11/7.5/4",
+        "chargeable": false,
+        "range": "1200"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "5",
+        "range": "30000",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "100/80/60",
+        "range": "30000",
+        "chargeable": false,
+        "areaofeffect": "250"
+      }
+    ]
+  },
+  {
+    "champName": "AurelionSol",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "range": "650",
+        "chargeable": false,
+        "areaofeffect": "75"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "8/6.5/5/3.5/2",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "80/75/70/65/60",
+        "range": "5500/6000/6500/7000/7500",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "110/90/70",
+        "range": "1500",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Azir",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "14/12/10/8/6",
+        "range": "740",
+        "chargeable": false,
+        "areaofeffect": "660"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "1.5",
+        "range": "500",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "19/18/17/16/15",
+        "range": "1100",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/105/90",
+        "range": "250",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Bard",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "11/10/9/8/7",
+        "range": "950",
+        "chargeable": false,
+        "areaofeffect": "450"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "14",
+        "range": "800",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "22/20.5/19/17.5/16",
+        "range": "900",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "110/95/80",
+        "range": "3400",
+        "chargeable": false,
+        "areaofeffect": "350"
+      }
+    ]
+  },
+  {
+    "champName": "Blitzcrank",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "20/19/18/17/16",
+        "range": "1150",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "15",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "9/8/7/6/5",
+        "range": "300",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "60/40/20",
+        "chargeable": false,
+        "range": "600"
+      }
+    ]
+  },
+  {
+    "champName": "Brand",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8/7.5/7/6.5/6",
+        "range": "1050",
+        "chargeable": false,
+        "areaofeffect": "250"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "10/9.5/9/8.5/8",
+        "range": "900",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "range": "625",
+        "chargeable": false,
+        "areaofeffect": "300"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "105/90/75",
+        "range": "750",
+        "chargeable": false,
+        "areaofeffect": "750"
+      }
+    ]
+  },
+  {
+    "champName": "Braum",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "10/9/8/7/6",
+        "range": "1000",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "range": "650",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16/14/12/10/8",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "1250",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Caitlyn",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "10/9/8/7/6",
+        "range": "1250",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "30/25.5/21/16.5/12pertrap",
+        "range": "800",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16/14.5/13/11.5/10",
+        "range": "750",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "90/75/60",
+        "range": "3500",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Camille",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "9/8.25/7.5/6.75/6",
+        "range": "175",
+        "chargeable": false,
+        "areaofeffect": "650"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "17/15.5/14/12.5/11",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16/15/14/13/12",
+        "range": "400",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "140/115/90",
+        "range": "475",
+        "chargeable": false,
+        "areaofeffect": "425"
+      }
+    ]
+  },
+  {
+    "champName": "Cassiopeia",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "3.5",
+        "range": "850",
+        "chargeable": false,
+        "areaofeffect": "160"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "24/22/20/18/16",
+        "range": "700",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "0.75",
+        "range": "700",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "chargeable": false,
+        "areaofeffect": "850"
+      }
+    ]
+  },
+  {
+    "champName": "Chogath",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "6",
+        "range": "950",
+        "chargeable": false,
+        "areaofeffect": "175"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "13/12/11/10/9",
+        "range": "650",
+        "chargeable": false,
+        "areaofeffect": "60"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "8/7/6/5/4",
+        "range": "500",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "80",
+        "range": "175",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Corki",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8",
+        "range": "825",
+        "chargeable": false,
+        "areaofeffect": "100|100"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "20/19/18/17/16",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16",
+        "range": "600",
+        "chargeable": false,
+        "areaofeffect": "35"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "2",
+        "range": "1255",
+        "chargeable": false,
+        "areaofeffect": "75"
+      }
+    ]
+  },
+  {
+    "champName": "Darius",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "9/8/7/6/5",
+        "chargeable": false,
+        "areaofeffect": "425"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "5",
+        "range": "200",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "26/24/22/20/18",
+        "chargeable": false,
+        "areaofeffect": "535"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "460",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Diana",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8/7.5/7/6.5/6",
+        "range": "900",
+        "chargeable": false,
+        "areaofeffect": "200"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "15/13.5/12/10.5/9",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "22/20/18/16/14",
+        "range": "825",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "100/90/80",
+        "chargeable": false,
+        "range": "475"
+      }
+    ]
+  },
+  {
+    "champName": "Draven",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "18/17/16/15/14",
+        "range": "1050",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "30000",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "DrMundo",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "4",
+        "range": "900",
+        "chargeable": false,
+        "areaofeffect": "325"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "17/16.5/16/15.5/15",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "8/7.5/7/6.5/6",
+        "range": "800",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "110/100/90",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Ekko",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "9/8.5/8/7.5/7",
+        "range": "1075",
+        "chargeable": false,
+        "areaofeffect": "400"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "22/20/18/16/14",
+        "range": "1600",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "9/8.5/8/7.5/7",
+        "range": "325",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "110/80/50",
+        "chargeable": false,
+        "areaofeffect": "375"
+      }
+    ]
+  },
+  {
+    "champName": "Elise",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "6",
+        "range": "625",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "950",
+        "cooldown": "10",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "22/21/20/19/18",
+        "range": "1075",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "4",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Evelynn",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "4",
+        "range": "800",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "15/14/13/12/11",
+        "range": "1200/1300/1400/1500/1600",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "8",
+        "range": "210",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "450",
+        "chargeable": false,
+        "areaofeffect": "180"
+      }
+    ]
+  },
+  {
+    "champName": "Ezreal",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "6.5/6/5.5/5/4.5",
+        "range": "1150",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12",
+        "range": "1150",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "28/25/22/19/16",
+        "range": "750",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120",
+        "range": "30000",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Fiddlesticks",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "15/14.5/14/13.5/13",
+        "range": "575",
+        "chargeable": false,
+        "areaofeffect": "850"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "10/9.5/9/8.5/8",
+        "range": "650",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "10/9/8/7/6",
+        "range": "850",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "140/110/80",
+        "range": "800",
+        "chargeable": false,
+        "areaofeffect": "600"
+      }
+    ]
+  },
+  {
+    "champName": "Fiora",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "",
+        "range": "400",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "24/22/20/18/16",
+        "range": "750",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "11/9.5/8/6.5/5",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "110/90/70",
+        "range": "500",
+        "chargeable": false,
+        "areaofeffect": "600"
+      }
+    ]
+  },
+  {
+    "champName": "Fizz",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8/7.5/7/6.5/6",
+        "range": "550",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "7/6.5/6/5.5/5",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16/14/12/10/8",
+        "range": "300",
+        "chargeable": false,
+        "areaofeffect": ""
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "100/85/70",
+        "range": "1300",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Galio",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "12/11.5/11/10.5/10",
+        "range": "825",
+        "chargeable": false,
+        "areaofeffect": "175-350"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "18/17.5/17/16.5/16",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "range": "650",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "200/180/160",
+        "range": "4000/4750/5500",
+        "chargeable": false,
+        "areaofeffect": "650"
+      }
+    ]
+  },
+  {
+    "champName": "Gangplank",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "4.5",
+        "range": "625",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "22/20/18/16/14",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "range": "1000",
+        "chargeable": false,
+        "areaofeffect": ""
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "180/160/140",
+        "range": "30000",
+        "chargeable": false,
+        "areaofeffect": "600"
+      }
+    ]
+  },
+  {
+    "champName": "Garen",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "23/21/19/17/15",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "9",
+        "chargeable": false,
+        "range": "325",
+        "areaofeffect": "325"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "400",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Gnar",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "20/17.5/15/12.5/10",
+        "range": "1100",
+        "chargeable": false
+      },
+      { "chargeable": false },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "22/19.5/17/14.5/12",
+        "range": "475",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "90/60/30",
+        "chargeable": false,
+        "areaofeffect": "475"
+      }
+    ]
+  },
+  {
+    "champName": "Gragas",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "11/10/9/8/7",
+        "range": "850",
+        "chargeable": false,
+        "areaofeffect": "250"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "5",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16/15/14/13/12",
+        "range": "600",
+        "chargeable": false,
+        "areaofeffect": "180"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "1000",
+        "chargeable": false,
+        "areaofeffect": "400"
+      }
+    ]
+  },
+  {
+    "champName": "Graves",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "range": "925",
+        "chargeable": false,
+        "areaofeffect": "250"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "26/24/22/20/18",
+        "range": "950",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16/15/14/13/12",
+        "range": "425",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/90/60",
+        "range": "1000",
+        "chargeable": false,
+        "areaofeffect": "800"
+      }
+    ]
+  },
+  {
+    "champName": "Gwen",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "6.5/5.75/5/4.25/3.5",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "22/20/18/16/14",
+        "chargeable": false,
+        "areaofeffect": "480"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "13/12/11/10/9",
+        "range": "350",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Hecarim",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "4",
+        "range": "350",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "18",
+        "chargeable": false,
+        "areaofeffect": "575"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "20/19/18/17/16",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "140/120/100",
+        "range": "1000",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Heimerdinger",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "range": "350",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "range": "1,325",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "range": "970",
+        "chargeable": false,
+        "areaofeffect": "250"
+      },
+      { "chargeable": false }
+    ]
+  },
+  {
+    "champName": "Illaoi",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "10/9/8/7/6",
+        "range": "850",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "4",
+        "range": "350",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16/15/14/13/12",
+        "range": "900",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/95/70",
+        "chargeable": false,
+        "areaofeffect": "450"
+      }
+    ]
+  },
+  {
+    "champName": "Irelia",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "11/10/9/8/7",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "20/18/16/14/12",
+        "range": "825",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "18/16.5/15/13.5/12",
+        "range": "775",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "140/120/100",
+        "range": "1000",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Ivern",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "14/13/12/11/10",
+        "range": "1100",
+        "chargeable": false,
+        "areaofeffect": "150"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "0.5",
+        "range": "1000",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "11/10/9/8/7",
+        "range": "750",
+        "chargeable": false,
+        "areaofeffect": "380"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "140/130/120",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Janna",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "12",
+        "range": "1100",
+        "minRange": "1100",
+        "maxRange": "1760",
+        "chargeable": true
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12",
+        "range": "650",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "15/13.5/12/10.5/9",
+        "range": "800",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "150/135/120",
+        "chargeable": false,
+        "areaofeffect": "725"
+      }
+    ]
+  },
+  {
+    "champName": "JarvanIV",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "10/9/8/7/6",
+        "range": "770",
+        "chargeable": false,
+        "areaofeffect": "625"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "9",
+        "range": "860",
+        "chargeable": false,
+        "areaofeffect": ""
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/105/90",
+        "range": "650",
+        "chargeable": false,
+        "areaofeffect": "325"
+      }
+    ]
+  },
+  {
+    "champName": "Jax",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8/7.5/7/6.5/6",
+        "range": "700",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "7/6/5/4/3",
+        "range": "300",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "14/12.5/11/9.5/8",
+        "chargeable": false,
+        "areaofeffect": "300"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "80",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Jayce",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8",
+        "range": "1050",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "13/11.4/9.8/8.2/6.6/5",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16",
+        "range": "650",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cooldown": ":6",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Jhin",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "7/6.5/6/5.5/5",
+        "range": "550",
+        "chargeable": false,
+        "areaofeffect": "400"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12",
+        "range": "2500",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "2",
+        "range": "750",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/105/90",
+        "range": "3500",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Jinx",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "0.9",
+        "chargeable": false,
+        "areaofeffect": "150"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "10/9/8/7/6",
+        "range": "1450",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "24/20.5/17/13.5/10",
+        "range": "925",
+        "chargeable": false,
+        "areaofeffect": "50"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "75/65/55",
+        "range": "30000",
+        "chargeable": false,
+        "areaofeffect": "225"
+      }
+    ]
+  },
+  {
+    "champName": "Kaisa",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8/7.5/7/6.5/6",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "22/20/18/16/14",
+        "range": "3000",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16/14.5/13/11.5/10",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "130/100/70",
+        "range": "1500/2250/3000",
+        "chargeable": false,
+        "areaofeffect": "525"
+      }
+    ]
+  },
+  {
+    "champName": "Kalista",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8",
+        "range": "1150",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "30",
+        "range": "5000",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "14/12.5/11/9.5/8",
+        "chargeable": false,
+        "range": "1100"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "150/120/90",
+        "range": "1200",
+        "chargeable": false,
+        "areaofeffect": "1100"
+      }
+    ]
+  },
+  {
+    "champName": "Karma",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "9/8/7/6/5",
+        "range": "950",
+        "chargeable": false,
+        "areaofeffect": "280"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12",
+        "range": "675",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "10",
+        "range": "800",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "40/38/36/34",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Karthus",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "1",
+        "range": "875",
+        "chargeable": false,
+        "areaofeffect": "800/900/1000/1100/1200"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "15",
+        "range": "1000",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "chargeable": false,
+        "areaofeffect": "550"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "200/180/160",
+        "range": "30000",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Kassadin",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "11/10.5/10/9.5/9",
+        "range": "650",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "7",
+        "range": "200",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "5",
+        "range": "400",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "5/3.5/2",
+        "range": "500",
+        "chargeable": false,
+        "areaofeffect": "150"
+      }
+    ]
+  },
+  {
+    "champName": "Katarina",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "11/10/9/8/7",
+        "range": "625",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "15/14/13/12/11",
+        "chargeable": false,
+        "areaofeffect": "625"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "14/12.5/11/9.5/8",
+        "range": "725",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "90/60/45",
+        "chargeable": false,
+        "areaofeffect": "550"
+      }
+    ]
+  },
+  {
+    "champName": "Kayle",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "range": "900",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "15",
+        "range": "900",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "8/7.5/7/6.5/6",
+        "range": "550",
+        "chargeable": false,
+        "areaofeffect": "300"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "160/120/80",
+        "range": "900",
+        "chargeable": false,
+        "areaofeffect": "500"
+      }
+    ]
+  },
+  {
+    "champName": "Kayn",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "7/6.5/6/5.5/5",
+        "range": "350",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "13/12/11/10/9",
+        "range": "700",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "21/19/17/15/13",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "550",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Kennen",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8/7/6/5/4",
+        "range": "950",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "14/12/10/8/6",
+        "range": "725",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "10/9/8/7/6",
+        "chargeable": false,
+        "areaofeffect": "200"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120",
+        "chargeable": false,
+        "areaofeffect": "550",
+        "range": "550"
+      }
+    ]
+  },
+  {
+    "champName": "Khazix",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "4",
+        "range": "325",
+        "chargeable": false,
+        "areaofeffect": "275"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "9",
+        "range": "1,000",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "20/18/16/14/12",
+        "range": "700",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "100/85/70",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Kindred",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8",
+        "range": "340",
+        "chargeable": false,
+        "areaofeffect": "800"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "18/17/16/15/14",
+        "range": "500",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "14/13/12/11/10",
+        "range": "500",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "180/150/120",
+        "chargeable": false,
+        "range": "500",
+        "areaofeffect": "500"
+      }
+    ]
+  },
+  {
+    "champName": "Kled",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "Cooldown:3",
+        "range": "800",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "14/12.5/11/9.5/8",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "13/12/11/10/9",
+        "range": "550",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "160/140/120",
+        "range": "3500/4000/4500",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "KogMaw",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8",
+        "range": "1175",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "17",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12",
+        "range": "1280",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "2/1.5/1",
+        "range": "1300/1550/1800",
+        "chargeable": false,
+        "areaofeffect": "100"
+      }
+    ]
+  },
+  {
+    "champName": "Leblanc",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "6",
+        "range": "700",
+        "chargeable": false,
+        "areaofeffect": "250"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "18/16/14/12/10",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "14/13.25/12.5/11.75/11",
+        "range": "925",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "60/45/30",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "LeeSin",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "10/9/8/7/6",
+        "range": "975",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12",
+        "range": "700",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "9",
+        "range": "350",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "90/75/60",
+        "range": "375",
+        "chargeable": false,
+        "areaofeffect": "1,200"
+      }
+    ]
+  },
+  {
+    "champName": "Leona",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "5",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "14/13/12/11/10",
+        "chargeable": false,
+        "areaofeffect": "275"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12/10.5/9/7.5/6",
+        "range": "875",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "90/75/60",
+        "range": "1200",
+        "chargeable": false,
+        "areaofeffect": "250"
+      }
+    ]
+  },
+  {
+    "champName": "Lillia",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "6/5.5/5/4.5/4",
+        "chargeable": false,
+        "areaofeffect": "485"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "14/13/12/11/10",
+        "range": "500",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16",
+        "range": "750",
+        "chargeable": false,
+        "areaofeffect": ""
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "150/130/110",
+        "range": "30000",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Lissandra",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8/7/6/5/4",
+        "range": "725",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "14/13/12/11/10",
+        "chargeable": false,
+        "areaofeffect": "450"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "24/21/18/15/12Second",
+        "range": "1050",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80Second",
+        "range": "550",
+        "chargeable": false,
+        "areaofeffect": "550"
+      }
+    ]
+  },
+  {
+    "champName": "Lucian",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "9/8/7/6/5",
+        "range": "500",
+        "chargeable": false,
+        "areaofeffect": "1000"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "14/13/12/11/10",
+        "range": "900",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "18/17/16/15/14",
+        "range": "425",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "110/100/90",
+        "range": "1200",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Lulu",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "7",
+        "range": "925",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "17/16/15/14/13",
+        "range": "650",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "8",
+        "range": "650",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "900",
+        "chargeable": false,
+        "areaofeffect": "150"
+      }
+    ]
+  },
+  {
+    "champName": "Lux",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "11",
+        "range": "1175",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "14/13/12/11/10",
+        "range": "1075",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "10/9.5/9/8.5/8",
+        "range": "1000",
+        "chargeable": false,
+        "areaofeffect": "310"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "60/50/40",
+        "range": "3340",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Malphite",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8",
+        "range": "625",
+        "chargeable": false,
+        "areaofeffect": "200"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "7",
+        "chargeable": false,
+        "areaofeffect": "400"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "130/105/80",
+        "range": "1000",
+        "chargeable": false,
+        "areaofeffect": "325"
+      }
+    ]
+  },
+  {
+    "champName": "Malzahar",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "6",
+        "range": "900",
+        "chargeable": false,
+        "areaofeffect": "400"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "8",
+        "range": "150",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "15/13/11/9/7",
+        "range": "650",
+        "chargeable": false,
+        "areaofeffect": "650"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "140/110/80",
+        "range": "700",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Maokai",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8/7.25/6.5/5.75/5",
+        "range": "600",
+        "chargeable": false,
+        "areaofeffect": "300"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "13/12/11/10/9",
+        "range": "525",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "10",
+        "range": "1100",
+        "chargeable": false,
+        "areaofeffect": "175"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "3000",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "MasterYi",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "18/17.5/17/16.5/16",
+        "range": "600",
+        "chargeable": false,
+        "areaofeffect": "600"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "28",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "18/17/16/15/14",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "85",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "MissFortune",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "7/6/5/4/3",
+        "range": "650",
+        "chargeable": false,
+        "areaofeffect": "500"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "18/16/14/12/10",
+        "range": "1000",
+        "chargeable": false,
+        "areaofeffect": "200"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/110/100",
+        "range": "1400",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Wukong",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "9/8.5/8/7.5/7",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "20/19/18/17/16",
+        "chargeable": false,
+        "areaofeffect": "175"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "10/9.5/9/8.5/8",
+        "range": "650",
+        "chargeable": false,
+        "areaofeffect": "375"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/105/90",
+        "chargeable": false,
+        "areaofeffect": "162"
+      }
+    ]
+  },
+  {
+    "champName": "Mordekaiser",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "9/7.75/6.5/5.25/4",
+        "range": "625",
+        "chargeable": false,
+        "areaofeffect": "160"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "18/16/14/12/10",
+        "range": "700",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "140/120/100",
+        "range": "650",
+        "chargeable": false,
+        "areaofeffect": "1200"
+      }
+    ]
+  },
+  {
+    "champName": "Morgana",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "10",
+        "range": "1175",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12",
+        "range": "900",
+        "chargeable": false,
+        "areaofeffect": "275"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "24/22/20/18/16",
+        "range": "800",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/110/100",
+        "range": "625",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Nami",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "range": "875",
+        "chargeable": false,
+        "areaofeffect": "725"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "10",
+        "range": "725",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "11",
+        "range": "800",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/110/100",
+        "range": "2,750",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Nasus",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "7.5/6.5/5.5/4.5/3.5",
+        "range": "175",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "15/14/13/12/11",
+        "range": "700",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12",
+        "range": "650",
+        "chargeable": false,
+        "areaofeffect": "400"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120",
+        "chargeable": false,
+        "areaofeffect": "175"
+      }
+    ]
+  },
+  {
+    "champName": "Nautilus",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "14/13/12/11/10",
+        "range": "1100",
+        "chargeable": false,
+        "areaofeffect": "350"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "7/6.5/6/5.5/5",
+        "chargeable": false,
+        "areaofeffect": "600"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "825",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Neeko",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "7",
+        "range": "800",
+        "chargeable": false,
+        "areaofeffect": "225"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "20/19/18/17/16",
+        "range": "900",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12/11.5/11/10.5/10",
+        "range": "1000",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "90",
+        "chargeable": false,
+        "areaofeffect": "600"
+      }
+    ]
+  },
+  {
+    "champName": "Nidalee",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "6",
+        "range": "1500",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "6",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "3",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Nocturne",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8",
+        "range": "1200",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "20/18/16/14/12",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "15/14/13/12/11",
+        "range": "425",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "140/115/90",
+        "range": "2500/3250/4000",
+        "chargeable": false,
+        "areaofeffect": "30000"
+      }
+    ]
+  },
+  {
+    "champName": "Nunu",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "range": "125",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "14",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "14",
+        "range": "550",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "110/100/90",
+        "chargeable": false,
+        "areaofeffect": "650"
+      }
+    ]
+  },
+  {
+    "champName": "Olaf",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "7",
+        "range": "1000",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "16",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "11/10/9/8/7",
+        "range": "325",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "100/90/80",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Orianna",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "6/5.25/4.5/3.75/3",
+        "range": "825",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "7",
+        "chargeable": false,
+        "areaofeffect": "250"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "9",
+        "range": "1,100",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "110/95/80",
+        "chargeable": false,
+        "areaofeffect": "325"
+      }
+    ]
+  },
+  {
+    "champName": "Ornn",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "9/8.5/8/7.5/7",
+        "range": "800",
+        "chargeable": false,
+        "areaofeffect": "50"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12/11.5/11/10.5/10",
+        "range": "500",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16/15/14/13/12",
+        "range": "800",
+        "chargeable": false,
+        "areaofeffect": "350"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "140/120/100",
+        "range": "2500",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Pantheon",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "13/11.75/10.5/9.25/8",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "13/12/11/10/9",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "22/20.5/19/17.5/16",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "150/135/120",
+        "range": "5500",
+        "chargeable": false,
+        "areaofeffect": "700"
+      }
+    ]
+  },
+  {
+    "champName": "Poppy",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "9/8/7/6/5",
+        "range": "430",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "24/22/20/18/16",
+        "areaofeffect": "400",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "14/13/12/11/10",
+        "range": "475",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "140/120/100",
+        "range": "1900",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Pyke",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "10/9.5/9/8.5/8",
+        "range": "400",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12/11.5/11/10.5/10",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "15/14/13/12/11",
+        "range": "550",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "750",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Qiyana",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "7",
+        "range": "650",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "7",
+        "range": "1100",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "range": "650",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "875",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Quinn",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "11/10.5/10/9.5/9",
+        "range": "1025",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "50/45/40/35/30",
+        "chargeable": false,
+        "areaofeffect": "2100"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "0",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Rakan",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "range": "900",
+        "chargeable": false,
+        "areaofeffect": "250"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "18/16.5/15/13.5/12",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "20/18/16/14/12",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "130/110/90",
+        "chargeable": false,
+        "areaofeffect": "150"
+      }
+    ]
+  },
+  {
+    "champName": "Rammus",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "16/13.5/11/8.5/6",
+        "chargeable": false,
+        "areaofeffect": "112"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "6",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12",
+        "range": "325",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "110/95/80",
+        "range": "600",
+        "chargeable": false,
+        "areaofeffect": "400"
+      }
+    ]
+  },
+  {
+    "champName": "Rek'Sai",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "12/11.5/11/10.5/10",
+        "chargeable": false,
+        "range": "1650"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "chargeable": false,
+        "areaofeffect": "160"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "Cooldown:26/24/22/20/18",
+        "range": "850",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "100/90/80",
+        "range": "1500",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Rell",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "9/8/7/6/5",
+        "range": "680",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "11",
+        "range": "500",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "18/16.25/14.5/12.75/11",
+        "range": "1500",
+        "chargeable": false,
+        "areaofeffect": "250"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "chargeable": false,
+        "areaofeffect": "400"
+      }
+    ]
+  },
+  {
+    "champName": "Renekton",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8",
+        "chargeable": false,
+        "areaofeffect": "325"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "13/12/11/10/9",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "18/17/16/15/14",
+        "range": "450",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120",
+        "chargeable": false,
+        "areaofeffect": "175"
+      }
+    ]
+  },
+  {
+    "champName": "Rengar",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "4",
+        "range": "450",
+        "chargeable": false,
+        "areaofeffect": "450"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "16/14.5/13/11.5/10",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "10",
+        "range": "1000",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cooldown": "110/90/70",
+        "chargeable": false,
+        "range": "2500/3000/3500"
+      }
+    ]
+  },
+  {
+    "champName": "Riven",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "13",
+        "range": "260",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "11/10/9/8/7",
+        "chargeable": false,
+        "areaofeffect": "125"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "10/9/8/7/6",
+        "range": "325",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/90/60",
+        "chargeable": false,
+        "areaofeffect": "900"
+      }
+    ]
+  },
+  {
+    "champName": "Rumble",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "10/9/8/7/6",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "6",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "range": "850",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "100/85/70",
+        "range": "1700",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Ryze",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "6",
+        "range": "1000",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "13/12/11/10/9",
+        "range": "615",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "3.5/3.25/3/2.75/2.5",
+        "range": "615",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "210/180/150",
+        "range": "3000",
+        "chargeable": false,
+        "areaofeffect": "475"
+      }
+    ]
+  },
+  {
+    "champName": "Samira",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "6/5/4/3/2",
+        "range": "950",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "30/28/26/24/22",
+        "chargeable": false,
+        "areaofeffect": "325"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "20/18/16/14/12",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "8",
+        "range": "1100",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Sejuani",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "18/16.5/15/13.5/12",
+        "range": "650",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "10/9/8/7/6",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "1.5",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "1300",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Senna",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "15",
+        "range": "600",
+        "chargeable": false,
+        "areaofeffect": "280"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "11",
+        "range": "1300",
+        "chargeable": false,
+        "areaofeffect": "800"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "26/24.5/23/21.5/20",
+        "chargeable": false,
+        "areaofeffect": "400"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "160/140/120",
+        "range": "30000",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Seraphine",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "10/8.75/7.5/6.25/5",
+        "range": "900",
+        "chargeable": false,
+        "areaofeffect": "350"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "26/25/24/23/22",
+        "chargeable": false,
+        "areaofeffect": "800"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "13/12/11/10/9",
+        "range": "1300",
+        "chargeable": false,
+        "areaofeffect": "140"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "160/130/100",
+        "range": "1200",
+        "chargeable": false,
+        "areaofeffect": "320"
+      }
+    ]
+  },
+  {
+    "champName": "Sett",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "9/8/7/6/5",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "18/16.5/15/13.5/12",
+        "range": "790",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16/14.5/13/11.5/10",
+        "range": "490",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "400",
+        "chargeable": false,
+        "areaofeffect": "600"
+      }
+    ]
+  },
+  {
+    "champName": "Shaco",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "12/11.5/11/10.5/10",
+        "range": "400",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "16",
+        "range": "425",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "8",
+        "range": "625",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "100/90/80",
+        "chargeable": false,
+        "areaofeffect": "250"
+      }
+    ]
+  },
+  {
+    "champName": "Shen",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8/7.25/6.5/5.75/5",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "18/16.5/15/13.5/12",
+        "chargeable": false,
+        "areaofeffect": "300"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "18/16/14/12/10",
+        "range": "300",
+        "chargeable": false,
+        "areaofeffect": "60"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "200/180/160",
+        "range": "30000",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Shyvana",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "9/8/7/6/5",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12",
+        "range": "325",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "range": "925",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "range": "850",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Singed",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "chargeable": false,
+        "areaofeffect": "175"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "17/16/15/14/13",
+        "range": "1000",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "10/9.5/9/8.5/8",
+        "range": "125",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/110/100",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Sion",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "10/9/8/7/6",
+        "range": "300",
+        "minRange": "300",
+        "maxRange": "600",
+        "chargeable": true
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "15/14/13/12/11",
+        "chargeable": false,
+        "areaofeffect": "550"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "range": "725",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "140/100/60",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Sivir",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "7",
+        "range": "1200",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12/10.5/9/7.5/6",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "22/19/16/13/10",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "chargeable": false,
+        "areaofeffect": "1000"
+      }
+    ]
+  },
+  {
+    "champName": "Skarner",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "3.5/3.25/3/2.75/2.5",
+        "chargeable": false,
+        "range": "350"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "13/12.5/12/11.5/11",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "14/13.5/13/12.5/12",
+        "range": "1000",
+        "chargeable": false,
+        "areaofeffect": "35"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "350",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Sona",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8",
+        "chargeable": false,
+        "range": "825"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "10",
+        "chargeable": false,
+        "range": "1000"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12",
+        "chargeable": false,
+        "areaofeffect": "430"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "140/120/100",
+        "range": "900",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Soraka",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8/7/6/5/4",
+        "range": "800",
+        "chargeable": false,
+        "areaofeffect": "235"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "6/5/4/3/2",
+        "range": "550",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "20/19/18/17/16",
+        "range": "925",
+        "chargeable": false,
+        "areaofeffect": "250"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "160/145/130",
+        "range": "30000",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Swain",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "9/7.5/6/4.5/3",
+        "range": "725",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "22/21/20/19/18",
+        "range": "5500/6000/6500/7000/7500",
+        "chargeable": false,
+        "areaofeffect": "325"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "10",
+        "range": "850",
+        "chargeable": false,
+        "areaofeffect": "100"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120",
+        "chargeable": false,
+        "areaofeffect": "650"
+      }
+    ]
+  },
+  {
+    "champName": "Sylas",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "10/9/8/7/6",
+        "range": "775",
+        "chargeable": false,
+        "areaofeffect": ""
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "13/11.25/9.5/7.75/6",
+        "range": "400",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "14",
+        "range": "700",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "100/70/40",
+        "range": "950",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Syndra",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "4",
+        "range": "800",
+        "chargeable": false,
+        "areaofeffect": "225"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "range": "925",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "18/17/16/15/14",
+        "range": "700",
+        "chargeable": false,
+        "areaofeffect": "40"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "675",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "TahmKench",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "5",
+        "range": "900",
+        "chargeable": false,
+        "areaofeffect": "275"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "21/20/19/18/17",
+        "range": "1000/1050/1100/1150/1200",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "3",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "250",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Taliyah",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "7/6/5/4/3",
+        "range": "1000",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "16/15/14/13/12",
+        "range": "900",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16/14/12/10/8",
+        "chargeable": false,
+        "areaofeffect": "800"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "180/150/120",
+        "range": "3000/4500/6000",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Talon",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8/7.5/7/6.5/5",
+        "range": "575",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "9/8.5/8/7.5/7",
+        "range": "650",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "2",
+        "range": "725",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "100/80/60",
+        "chargeable": false,
+        "areaofeffect": "550"
+      }
+    ]
+  },
+  {
+    "champName": "Taric",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "3",
+        "chargeable": false,
+        "areaofeffect": "325"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "15",
+        "range": "800",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "17/16/15/14/13",
+        "range": "575",
+        "chargeable": false,
+        "areaofeffect": "70"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "180/150/120",
+        "chargeable": false,
+        "areaofeffect": "400"
+      }
+    ]
+  },
+  {
+    "champName": "Teemo",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8",
+        "range": "680",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "14",
+        "chargeable": false
+      },
+      { "chargeable": false },
+      {
+        "slot": "R",
+        "cost": "0",
+        "range": "400/650/900",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Thresh",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "20/18/16/14/12",
+        "range": "1100",
+        "chargeable": false,
+        "areaofeffect": "150"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "22/20.5/19/17.5/16",
+        "range": "950",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "13/12.25/11.5/10.75/10",
+        "range": "400",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "140/120/100",
+        "chargeable": false,
+        "range": "450"
+      }
+    ]
+  },
+  {
+    "champName": "Tristana",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "20/19/18/17/16",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "22/20/18/16/14",
+        "range": "900",
+        "chargeable": false,
+        "areaofeffect": "350"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16/15.5/15/14.5/14",
+        "range": "525",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/110/100",
+        "range": "525",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Trundle",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "3.5",
+        "range": "300",
+        "chargeable": false,
+        "areaofeffect": "1000"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "15/14/13/12/11",
+        "range": "900",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "24/22/20/18/16",
+        "range": "1000",
+        "chargeable": false,
+        "areaofeffect": "125"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "700",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Tryndamere",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "12",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "14",
+        "chargeable": false,
+        "areaofeffect": "850"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "range": "650",
+        "chargeable": false,
+        "areaofeffect": "225"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "110/100/90",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Twisted_Fate",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "6",
+        "range": "1450",
+        "chargeable": false,
+        "areaofeffect": "200"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "8/7.5/7/6.5/6",
+        "chargeable": false
+      },
+      { "chargeable": false },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "180/150/120",
+        "range": "5500",
+        "chargeable": false,
+        "areaofeffect": "30000"
+      }
+    ]
+  },
+  {
+    "champName": "Twitch",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "16",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "13/12/11/10/9",
+        "range": "950",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "chargeable": false,
+        "areaofeffect": "1200"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "90",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Udyr",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "6",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "6",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "6",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "6",
+        "chargeable": false,
+        "areaofeffect": "250"
+      }
+    ]
+  },
+  {
+    "champName": "Urgot",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "10/9.5/9/8.5/8",
+        "range": "800",
+        "chargeable": false,
+        "areaofeffect": "210"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12/9/6/3/0",
+        "chargeable": false,
+        "areaofeffect": "490"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16/15.5/15/14.5/14",
+        "range": "475",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "100/85/70",
+        "range": "2500",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Varus",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "16/15/14/13/12",
+        "range": "925",
+        "minRange": "925",
+        "maxRange": "1625",
+        "chargeable": true
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "40",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "18/16/14/12/10",
+        "range": "925",
+        "chargeable": false,
+        "areaofeffect": "300"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "100/80/60",
+        "range": "1200",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Vayne",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "4/3.5/3/2.5/2",
+        "range": "300",
+        "chargeable": false
+      },
+      { "chargeable": false },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "20/18/16/14/12",
+        "range": "550",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "100/85/70",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Veigar",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "6/5.5/5/4.5/4",
+        "range": "900",
+        "chargeable": false,
+        "areaofeffect": "112"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "8",
+        "range": "900",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "18/16.5/15/13.5/12",
+        "range": "700",
+        "chargeable": false,
+        "areaofeffect": "375"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/90/60",
+        "range": "650",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Vel'Koz",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "7",
+        "range": "1050",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "2",
+        "range": "1050",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16/15/14/13/12",
+        "range": "810",
+        "chargeable": false,
+        "areaofeffect": "225"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "1575",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Vex",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "9/8/7/6/5",
+        "range": "1200",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "20/18/16/14/12",
+        "chargeable": false,
+        "areaofeffect": "475"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "13",
+        "range": "800",
+        "chargeable": false,
+        "areaofeffect": "200"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "140/120/100",
+        "range": "2000/2500/3000",
+        "chargeable": false,
+        "areaofeffect": "30000"
+      }
+    ]
+  },
+  {
+    "champName": "Vi",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "12/10.5/9/7.5/6",
+        "range": "250",
+        "minRange": "250",
+        "maxRange": "725",
+        "chargeable": true
+      },
+      { "chargeable": false },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "1",
+        "chargeable": false,
+        "areaofeffect": "600"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "800",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Viego",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "5/4.5/4/3.5/3",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "7",
+        "range": "300",
+        "minRange": "300",
+        "maxRange": "900",
+        "chargeable": true
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "14/12/10/8/6",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "500",
+        "chargeable": false,
+        "areaofeffect": "300"
+      }
+    ]
+  },
+  {
+    "champName": "Viktor",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "9/8/7/6/5",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "17/16/15/14/13",
+        "range": "800",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "range": "525",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "700",
+        "chargeable": false,
+        "areaofeffect": "350"
+      }
+    ]
+  },
+  {
+    "champName": "Vladimir",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "9/7.9/6.8/5.7/4.6",
+        "range": "600",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "28/25/22/19/16",
+        "range": "350",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "13/11/9/7/5",
+        "chargeable": true,
+        "range": "600"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120",
+        "range": "625",
+        "chargeable": false,
+        "areaofeffect": "375"
+      }
+    ]
+  },
+  {
+    "champName": "Volibear",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "14/13/12/11/10",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "5",
+        "range": "325",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "13",
+        "range": "1200",
+        "chargeable": false,
+        "areaofeffect": ""
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "160/140/120",
+        "range": "700",
+        "chargeable": false,
+        "areaofeffect": ""
+      }
+    ]
+  },
+  {
+    "champName": "Warwick",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "6",
+        "range": "350",
+        "chargeable": false,
+        "areaofeffect": "30000"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "120/105/90/75/60",
+        "range": "4000",
+        "chargeable": false,
+        "areaofeffect": "30000"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "15/14/13/12/11",
+        "chargeable": false,
+        "areaofeffect": "375"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "110/90/70",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Xayah",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "10/9/8/7/6",
+        "range": "1100",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "20/19/18/17/16",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "10/9.5/9/8.5/8",
+        "chargeable": false,
+        "range": "30000"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "140/120/100",
+        "range": "1100",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Xerath",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "9/8/7/6/5",
+        "range": "750",
+        "minRange": "750",
+        "maxRange": "1400",
+        "chargeable": true,
+        "areaofeffect": "200"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "14/13/12/11/10",
+        "range": "1100",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "13/12.5/12/11.5/11",
+        "range": "1050",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "130/115/100",
+        "range": "5000",
+        "chargeable": false,
+        "areaofeffect": "200"
+      }
+    ]
+  },
+  {
+    "champName": "XinZhao",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "7/6.5/6/5.5/5",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "range": "1000",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "11",
+        "range": "650",
+        "chargeable": false,
+        "areaofeffect": "250"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/110/100",
+        "chargeable": false,
+        "areaofeffect": "450"
+      }
+    ]
+  },
+  {
+    "champName": "Yasuo",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "4to1.33",
+        "range": "475",
+        "minRange": "475",
+        "maxRange": "900",
+        "chargeable": false,
+        "areaofeffect": "375"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "26/24/22/20/18",
+        "range": "400",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": ".5/.4/.3/.2/.1",
+        "range": "475",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "80/55/30",
+        "range": "1400",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Yone",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "0",
+        "range": "475",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "0",
+        "chargeable": false,
+        "areaofeffect": "600"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "22/19/16/13/10",
+        "range": "300",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "1000",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Yorick",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "7/6.25/5.5/4.75/4",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "20/18/16/14/12",
+        "range": "600",
+        "chargeable": false,
+        "areaofeffect": "225"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "range": "700",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "",
+        "range": "600",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Yuumi",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "13.5/12/10.5/9/7.5/6",
+        "range": "1150",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "",
+        "range": "700",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12/11/10/9/8",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "130/110/90",
+        "range": "1100",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Zac",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "13/11.5/10/8.5/7",
+        "range": "800",
+        "chargeable": false,
+        "areaofeffect": "350"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "5",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "24/21/18/15/12",
+        "range": "1200/1350/1500/1650/1800",
+        "chargeable": false,
+        "areaofeffect": "150"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "130/115/100",
+        "chargeable": false,
+        "areaofeffect": "300"
+      }
+    ]
+  },
+  {
+    "champName": "Zed",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "6",
+        "range": "900",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "20/18.5/17/15.5/14",
+        "range": "650",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "5/4.5/4/3.5/3",
+        "chargeable": false,
+        "areaofeffect": "290"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/100/80",
+        "range": "625",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Zeri",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "0",
+        "range": "825",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "10",
+        "range": "1200",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "23/21.5/20/18.5/17",
+        "range": "300",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "100/90/80",
+        "chargeable": false,
+        "areaofeffect": "825"
+      }
+    ]
+  },
+  {
+    "champName": "Ziggs",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "6/5.5/5/4.5/4",
+        "range": "850",
+        "minRange": "850",
+        "maxRange": "1400",
+        "chargeable": false,
+        "areaofeffect": "150"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "20/18/16/14/12",
+        "range": "1000",
+        "chargeable": false,
+        "areaofeffect": "325"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16",
+        "range": "900",
+        "chargeable": false,
+        "areaofeffect": "325"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/95/70",
+        "range": "5000",
+        "chargeable": false,
+        "areaofeffect": "550"
+      }
+    ]
+  },
+  {
+    "champName": "Zilean",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "10/9.5/9/8.5/8",
+        "range": "900",
+        "chargeable": false,
+        "areaofeffect": "330"
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "14/12/10/8/6",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "15",
+        "range": "550",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "120/90/60",
+        "range": "900",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Zoe",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "8.5/8/7.5/7/6.5",
+        "range": "800",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "cooldown": "0.25",
+        "range": "550",
+        "chargeable": false
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "16/15/14/13/12",
+        "range": "800",
+        "chargeable": false,
+        "areaofeffect": "250"
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "11/8/5",
+        "range": "575",
+        "chargeable": false
+      }
+    ]
+  },
+  {
+    "champName": "Zyra",
+    "spelldetails": [
+      {
+        "slot": "Q",
+        "cost": "0",
+        "cooldown": "7/6.5/6/5.5/5",
+        "range": "800",
+        "chargeable": false
+      },
+      {
+        "slot": "W",
+        "cost": "0",
+        "chargeable": false,
+        "areaofeffect": "850"
+      },
+      {
+        "slot": "E",
+        "cost": "0",
+        "cooldown": "12",
+        "range": "1100",
+        "chargeable": false
+      },
+      {
+        "slot": "R",
+        "cost": "0",
+        "cooldown": "130/120/110",
+        "range": "700",
+        "chargeable": false
+      }
+    ]
+  }
+]
